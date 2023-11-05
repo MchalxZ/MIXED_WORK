@@ -3,7 +3,6 @@
 #include <cstdlib>
 
 int main() {
-    // Seed the random number generator
     std::srand(static_cast<unsigned>(std::time(nullptr)));
 
     int secretNumber = std::rand() % 100 + 1; 
