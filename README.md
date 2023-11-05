@@ -9,7 +9,7 @@ NAME:_CHONG LI XIANG_<br /><br />
 | NO | CLASSES           | Programming Language|
 |----|-------------------|---------------------|
 | 1  | PaymentSystem     |Python               |
-
+| 2  | BombGame     |C++               |
 
 ------------------------------------------------------------------------------------------------------------------
 * [CLICK HERE TO GO BACK](https://github.com/MchalxZ)
